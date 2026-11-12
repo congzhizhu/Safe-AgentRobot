@@ -1,0 +1,3 @@
+cd /mnt/d/Safety_Agent/robot && python3 robot_service.py --nic auto --port 8010
+cd /d D:\Safety_Agent
+.venv\Scripts\python.exe start_all_windows.py
